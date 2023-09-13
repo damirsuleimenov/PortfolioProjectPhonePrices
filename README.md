@@ -18,18 +18,17 @@ The raw dataset looks as follows:
 
 <img src="dataset_raw.JPG" alt="image" width="300" height="auto">
 
-1. Checking for missing values, duplicates, datatypes of the features and shape of the dataset.
-2. Applying Feature Engineering on the features. One of the instances looks as follows:
+**1. After checking for missing values, duplicates, datatypes of the features and the shape of the dataset, I apply Feature Engineering on the features. One of the instances looks as follows:**
 
 <img src="feature_engineering.JPG" alt="image" width="300" height="auto">
 
 Using regex, I extracted each camera and distributed them into new columns. Where there were fewer than 4 cameras, empty values were filled with "NaN."
 
-3. The final appearance of the cleaned dataset:
+**2. The final appearance of the cleaned dataset:**
 
 <img src="dataset_clean.JPG" alt="image" width="300" height="auto">
 
-<p style="text-align: center;">Conducting Exploratory Data Analysis</p>
+**3. Conducting Exploratory Data Analysis:**
 
 <div style="display: flex; justify-content: space-between;">
     <img src="p1.JPG" alt="Image 1" width="45%" height = "300">
