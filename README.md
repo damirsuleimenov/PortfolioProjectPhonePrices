@@ -36,6 +36,16 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
 
 <div style="display: flex; justify-content: space-between;">
     <img src="p1.JPG" alt="Image 1" width="45%">
-    <img src="p2.JPG" alt="Image 2" width="45%">
+    <img src="p3.JPG" alt="Image 2" width="45%">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="p2.JPG" alt="Image 1" width="45%">
+    <img src="p4.JPG" alt="Image 2" width="45%">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="p5.JPG" alt="Image 1" width="45%">
+    <img src="p6.JPG" alt="Image 2" width="45%">
 </div>
 
