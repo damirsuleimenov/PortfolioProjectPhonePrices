@@ -25,6 +25,6 @@ The raw dataset looks as follows:
 
 Using regex, I extracted each camera and distributed them into new columns. Where there were fewer than 4 cameras, empty values were filled with "NaN."
 
-The final look of the cleaned dataset:
+3. The final appearance of the cleaned dataset:
 
 ![dataset_clean](dataset_clean.JPG)
