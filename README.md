@@ -32,13 +32,13 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
 4. Conducting EDA:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="p1.JPG" alt="Image 1" width="45%">
-    <img src="p5.JPG" alt="Image 2" width="45%">
+    <img src="p1.JPG" alt="Image 1" width="45%" height = "300">
+    <img src="p5.JPG" alt="Image 2" width="45%" height = "300">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="p2.JPG" alt="Image 1" width="45%">
-    <img src="p4.JPG" alt="Image 2" width="45%">
+    <img src="p2.JPG" alt="Image 1" width="45%" height = "100">
+    <img src="p4.JPG" alt="Image 2" width="45%" height = "100">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
