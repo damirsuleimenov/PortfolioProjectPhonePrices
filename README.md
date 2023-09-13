@@ -16,7 +16,7 @@ This dataset contains information on the prices of several mobile phones from di
 
 The raw dataset looks as follows:
 
-<img src="dataset_raw.JPG" alt="image" width="300" height="auto">
+![dataset_raw](dataset_raw.JPG)
 
 **1. After checking for missing values, duplicates, datatypes of the features and the shape of the dataset, I apply Feature Engineering on the features. One of the instances looks as follows:**
 
