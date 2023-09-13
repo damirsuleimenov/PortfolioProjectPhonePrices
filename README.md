@@ -28,3 +28,7 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
 3. The final appearance of the cleaned dataset:
 
 ![dataset_clean](dataset_clean.JPG)
+
+4. Conducting EDA:
+
+   
