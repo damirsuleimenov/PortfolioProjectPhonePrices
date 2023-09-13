@@ -32,3 +32,4 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
 4. Conducting EDA:
 
 <img src="p1.JPG" alt="image" width="300" height="auto">
+<img src="p3.JPG" alt="image" width="300" height="auto">
