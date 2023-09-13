@@ -45,6 +45,16 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
     <img src="p6.JPG" alt="Image 2" width="45%" height = "300">
 </div>
 
+Insights from the plots:
+
++ Samsung has the most models, followed by Xiaomi and Oppo.
++ Mobile phones in this dataset have an average RAM of 6 GB.
++ 128 GB is the most frequent storage in this dataset.
++ Mobile phones in this dataset have an average screen size of 6.5 inches.
++ The majority have battery capacities between 4000 and 6000 mAh.
++ According to the correlation matrix, storage capacity and RAM have the greatest impact on the price of a mobile phone. The correlation between the cameras and the price can be distorted because they are irregularly distributed.
+
+  
 **4. Creating a dashboard in Power BI:**
 
 <img src="dahsboard.jpg" alt="image" width="auto" height="auto">
