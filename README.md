@@ -26,7 +26,7 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
 
 **2. The final appearance of the cleaned dataset:**
 
-<img src="dataset_clean.JPG" alt="image" width="400" height="auto">
+![dataset_raw](dataset_clean.JPG)
 
 **3. Conducting Exploratory Data Analysis:**
 
