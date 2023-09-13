@@ -35,7 +35,7 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
 <img src="p3.JPG" alt="image" width="300" height="auto">
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="p1.jpg" alt="Image 1" width="45%">
-    <img src="p2.jpg" alt="Image 2" width="45%">
+    <img src="p1.JPG" alt="Image 1" width="45%">
+    <img src="p2.JPG" alt="Image 2" width="45%">
 </div>
 
