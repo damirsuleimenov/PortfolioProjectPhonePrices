@@ -9,7 +9,6 @@
 + Matplotlib
 + Seaborn
 + Power BI
-+ GitHub
 
 Link to the Kaggle dataset: https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price
 
@@ -24,4 +23,4 @@ The raw dataset looks as follows:
 
 ![feature_engineering](feature_engineering.JPG)
 
-
+Using regex, I extracted each camera and distributed them into new columns. Where there were fewer than 4 cameras, empty values were filled with "NaN."
