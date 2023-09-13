@@ -29,7 +29,7 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
 
 <img src="dataset_clean.JPG" alt="image" width="300" height="auto">
 
-4. Conducting EDA:
+<div style="text-align: center;">**Conducting Exploratory Data Analysis**</div>
 
 <div style="display: flex; justify-content: space-between;">
     <img src="p1.JPG" alt="Image 1" width="45%" height = "300">
