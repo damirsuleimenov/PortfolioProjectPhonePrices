@@ -15,3 +15,5 @@ Link to the Kaggle dataset: https://www.kaggle.com/datasets/rkiattisak/mobile-ph
 
 This dataset contains information on the prices of several mobile phones from different brands. It includes details such as the storage capacity, RAM, screen size, camera specifications, battery capacity, and price of each device.
 
+![raw_dataset](dataset_raw.JPG)
+
