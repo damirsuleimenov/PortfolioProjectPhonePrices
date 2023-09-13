@@ -45,6 +45,7 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
     <img src="p6.JPG" alt="Image 2" width="45%" height = "300">
 </div>
 
+
 Insights from the plots:
 
 + Samsung has the most models, followed by Xiaomi and Oppo.
