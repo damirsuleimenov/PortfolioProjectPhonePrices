@@ -45,3 +45,6 @@ Using regex, I extracted each camera and distributed them into new columns. Wher
     <img src="p6.JPG" alt="Image 2" width="45%" height = "300">
 </div>
 
+**4. Creating a dashboard in Power BI:**
+
+<img src="dashboard.JPG" alt="image" width="auto" height="auto">
