@@ -15,5 +15,10 @@ Link to the Kaggle dataset: https://www.kaggle.com/datasets/rkiattisak/mobile-ph
 
 This dataset contains information on the prices of several mobile phones from different brands. It includes details such as the storage capacity, RAM, screen size, camera specifications, battery capacity, and price of each device.
 
+The raw dataset looks as follows:
+
 ![raw_dataset](dataset_raw.JPG)
+
+1. Checking for missing values, duplicates, datatypes of the features and shape of the dataset.
+2. Applying Feature Engineering on the features. One of the instances looks as follows:
 
