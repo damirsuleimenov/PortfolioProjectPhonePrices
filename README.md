@@ -22,3 +22,6 @@ The raw dataset looks as follows:
 1. Checking for missing values, duplicates, datatypes of the features and shape of the dataset.
 2. Applying Feature Engineering on the features. One of the instances looks as follows:
 
+![feature_engineering](feature_engineering.JPG)
+
+
